@@ -49,11 +49,11 @@
             "sourcePath": "/Users/pchaudhuri/Documents/Partha/Official/workspaces/my_sfdx_project/geolocation/force-app/main/default/aura",
             "isDirectory": true,
             "isMetadataFile": false,
-            "size": 256,
-            "modifiedTime": 1518712524317,
-            "changeTime": 1518712524317,
+            "size": 224,
+            "modifiedTime": 1518712194416,
+            "changeTime": 1518712194416,
             "isWorkspace": false,
-            "contentHash": "23660167a0fa4569f0c9187c3e1280d8bd7ba165"
+            "contentHash": "1b1fce203cd22730aa6e8cc0c24ecbdcc21bc70f"
         }
     ],
     [
@@ -281,14 +281,14 @@
     [
         "/Users/pchaudhuri/Documents/Partha/Official/workspaces/my_sfdx_project/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
         {
+            "state": "u",
             "sourcePath": "/Users/pchaudhuri/Documents/Partha/Official/workspaces/my_sfdx_project/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 206,
             "modifiedTime": 1518712313404,
             "changeTime": 1518712313419,
-            "contentHash": "db049c83f47e1c6fc0c9e4dc7a2b5c77a275bfa1",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "db049c83f47e1c6fc0c9e4dc7a2b5c77a275bfa1"
         }
     ],
     [
@@ -479,7 +479,7 @@
             "sourcePath": "/Users/pchaudhuri/Documents/Partha/Official/workspaces/my_sfdx_project/geolocation/force-app/main/default/aura/AccountList",
             "isDirectory": true,
             "size": 352,
-            "modifiedTime": 1518713094709,
+            "modifiedTime": 1518703487402,
             "changeTime": 1518703487402,
             "contentHash": "8560224a9375f41dec7cfcf002b9144a4be27670",
             "isMetadataFile": false,
@@ -515,14 +515,14 @@
     [
         "/Users/pchaudhuri/Documents/Partha/Official/workspaces/my_sfdx_project/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp",
         {
-            "state": "u",
             "sourcePath": "/Users/pchaudhuri/Documents/Partha/Official/workspaces/my_sfdx_project/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp",
             "isDirectory": false,
+            "size": 342,
+            "modifiedTime": 1518703427295,
+            "changeTime": 1518703427317,
+            "contentHash": "86a186b5a8b9068c6299caa05cf1227d8b06b391",
             "isMetadataFile": false,
-            "size": 538,
-            "modifiedTime": 1518713059128,
-            "changeTime": 1518713059142,
-            "contentHash": "73cce74cdf9cf3e4b2d122c7a4a8a5dd7862f60b"
+            "state": "u"
         }
     ],
     [
@@ -580,14 +580,14 @@
     [
         "/Users/pchaudhuri/Documents/Partha/Official/workspaces/my_sfdx_project/geolocation/force-app/main/default/aura/AccountList/AccountListController.js",
         {
-            "state": "u",
             "sourcePath": "/Users/pchaudhuri/Documents/Partha/Official/workspaces/my_sfdx_project/geolocation/force-app/main/default/aura/AccountList/AccountListController.js",
             "isDirectory": false,
+            "size": 255,
+            "modifiedTime": 1518703461367,
+            "changeTime": 1518703461383,
+            "contentHash": "852714ef85a9eacf436a155236a97021f5688cef",
             "isMetadataFile": false,
-            "size": 395,
-            "modifiedTime": 1518713094684,
-            "changeTime": 1518713094699,
-            "contentHash": "57b30f0b559317b4566fd3691c83f3439ecdc073"
+            "state": "u"
         }
     ],
     [
@@ -918,27 +918,27 @@
     [
         "/Users/pchaudhuri/Documents/Partha/Official/workspaces/my_sfdx_project/geolocation/force-app/main/default/aura/AccountMap",
         {
+            "state": "u",
             "sourcePath": "/Users/pchaudhuri/Documents/Partha/Official/workspaces/my_sfdx_project/geolocation/force-app/main/default/aura/AccountMap",
             "isDirectory": true,
-            "size": 352,
-            "modifiedTime": 1518713197871,
-            "changeTime": 1518712289378,
-            "contentHash": "ca7497b9d16bf71224d944e5c0c08dce87141486",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 352,
+            "modifiedTime": 1518712289378,
+            "changeTime": 1518712289378,
+            "contentHash": "ca7497b9d16bf71224d944e5c0c08dce87141486"
         }
     ],
     [
         "/Users/pchaudhuri/Documents/Partha/Official/workspaces/my_sfdx_project/geolocation/force-app/main/default/aura/AccountMap/AccountMap.auradoc",
         {
+            "state": "u",
             "sourcePath": "/Users/pchaudhuri/Documents/Partha/Official/workspaces/my_sfdx_project/geolocation/force-app/main/default/aura/AccountMap/AccountMap.auradoc",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 209,
             "modifiedTime": 1518712194419,
             "changeTime": 1518712194419,
-            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e"
         }
     ],
     [
@@ -948,62 +948,62 @@
             "sourcePath": "/Users/pchaudhuri/Documents/Partha/Official/workspaces/my_sfdx_project/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 330,
-            "modifiedTime": 1518713132471,
-            "changeTime": 1518713132486,
-            "contentHash": "45414d758e786fa4a84b9dd2ea810afec9dc0de2"
+            "size": 260,
+            "modifiedTime": 1518712241677,
+            "changeTime": 1518712241704,
+            "contentHash": "942ff45728b690d7ff605de9908ff0821a651669"
         }
     ],
     [
         "/Users/pchaudhuri/Documents/Partha/Official/workspaces/my_sfdx_project/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/pchaudhuri/Documents/Partha/Official/workspaces/my_sfdx_project/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 242,
             "modifiedTime": 1518712194417,
             "changeTime": 1518712194417,
-            "contentHash": "b077571a2f804c85e2f389b95989fc6cf62a87af",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "b077571a2f804c85e2f389b95989fc6cf62a87af"
         }
     ],
     [
         "/Users/pchaudhuri/Documents/Partha/Official/workspaces/my_sfdx_project/geolocation/force-app/main/default/aura/AccountMap/AccountMap.css",
         {
+            "state": "u",
             "sourcePath": "/Users/pchaudhuri/Documents/Partha/Official/workspaces/my_sfdx_project/geolocation/force-app/main/default/aura/AccountMap/AccountMap.css",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 42,
             "modifiedTime": 1518712289359,
             "changeTime": 1518712289375,
-            "contentHash": "b5c7a9773c9f99067d3777ecad9e5dd88e3b717c",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "b5c7a9773c9f99067d3777ecad9e5dd88e3b717c"
         }
     ],
     [
         "/Users/pchaudhuri/Documents/Partha/Official/workspaces/my_sfdx_project/geolocation/force-app/main/default/aura/AccountMap/AccountMap.design",
         {
+            "state": "u",
             "sourcePath": "/Users/pchaudhuri/Documents/Partha/Official/workspaces/my_sfdx_project/geolocation/force-app/main/default/aura/AccountMap/AccountMap.design",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 40,
             "modifiedTime": 1518712194420,
             "changeTime": 1518712194420,
-            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec"
         }
     ],
     [
         "/Users/pchaudhuri/Documents/Partha/Official/workspaces/my_sfdx_project/geolocation/force-app/main/default/aura/AccountMap/AccountMap.svg",
         {
+            "state": "u",
             "sourcePath": "/Users/pchaudhuri/Documents/Partha/Official/workspaces/my_sfdx_project/geolocation/force-app/main/default/aura/AccountMap/AccountMap.svg",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 661,
             "modifiedTime": 1518712194419,
             "changeTime": 1518712194419,
-            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4"
         }
     ],
     [
@@ -1013,75 +1013,36 @@
             "sourcePath": "/Users/pchaudhuri/Documents/Partha/Official/workspaces/my_sfdx_project/geolocation/force-app/main/default/aura/AccountMap/AccountMapController.js",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 833,
-            "modifiedTime": 1518713197847,
-            "changeTime": 1518713197860,
-            "contentHash": "66b62a139b9cca8204da084c582323079ab70ffe"
+            "size": 379,
+            "modifiedTime": 1518712264873,
+            "changeTime": 1518712264900,
+            "contentHash": "03c2ff940a77f739be3be834b08d71acb5ef1c83"
         }
     ],
     [
         "/Users/pchaudhuri/Documents/Partha/Official/workspaces/my_sfdx_project/geolocation/force-app/main/default/aura/AccountMap/AccountMapHelper.js",
         {
+            "state": "u",
             "sourcePath": "/Users/pchaudhuri/Documents/Partha/Official/workspaces/my_sfdx_project/geolocation/force-app/main/default/aura/AccountMap/AccountMapHelper.js",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 45,
             "modifiedTime": 1518712194418,
             "changeTime": 1518712194418,
-            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
         }
     ],
     [
         "/Users/pchaudhuri/Documents/Partha/Official/workspaces/my_sfdx_project/geolocation/force-app/main/default/aura/AccountMap/AccountMapRenderer.js",
         {
+            "state": "u",
             "sourcePath": "/Users/pchaudhuri/Documents/Partha/Official/workspaces/my_sfdx_project/geolocation/force-app/main/default/aura/AccountMap/AccountMapRenderer.js",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 50,
             "modifiedTime": 1518712194419,
             "changeTime": 1518712194419,
-            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/pchaudhuri/Documents/Partha/Official/workspaces/my_sfdx_project/geolocation/force-app/main/default/aura/AccountsLoaded",
-        {
-            "state": "u",
-            "sourcePath": "/Users/pchaudhuri/Documents/Partha/Official/workspaces/my_sfdx_project/geolocation/force-app/main/default/aura/AccountsLoaded",
-            "isDirectory": true,
-            "isMetadataFile": false,
-            "size": 128,
-            "modifiedTime": 1518712893202,
-            "changeTime": 1518712893202,
-            "contentHash": "4bba9f5fa252e1cd21062d694a0425e2246f27ae"
-        }
-    ],
-    [
-        "/Users/pchaudhuri/Documents/Partha/Official/workspaces/my_sfdx_project/geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt",
-        {
-            "state": "u",
-            "sourcePath": "/Users/pchaudhuri/Documents/Partha/Official/workspaces/my_sfdx_project/geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 100,
-            "modifiedTime": 1518712893175,
-            "changeTime": 1518712893199,
-            "contentHash": "8f41527bf754bff336a0a867da6cdd35659054b4"
-        }
-    ],
-    [
-        "/Users/pchaudhuri/Documents/Partha/Official/workspaces/my_sfdx_project/geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt-meta.xml",
-        {
-            "state": "u",
-            "sourcePath": "/Users/pchaudhuri/Documents/Partha/Official/workspaces/my_sfdx_project/geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt-meta.xml",
-            "isDirectory": false,
-            "isMetadataFile": true,
-            "size": 242,
-            "modifiedTime": 1518712524318,
-            "changeTime": 1518712524318,
-            "contentHash": "2761731f694cba49bd18f1129cb53c1074bf487c"
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
         }
     ]
 ]
